@@ -3593,7 +3593,7 @@ latensie = speed() - timestampe
 
 *┃Runtime ⏳:* ${runtime(process.uptime())}
 
-*┃*᳆⃟❁ཻ͜͡𝕆𝕦𝕣𝕖 𝕄𝕒𝕚𝕟 𝔾𝕣𝕠𝕦𝕡* ✅ :* https://chat.whatsapp.com/E967TqfcTUTGUbZNSZyDL8*
+*┃*᳆⃟❁ཻ͜͡𝕆𝕦𝕣𝕖 𝕄𝕒𝕚𝕟 𝔾𝕣𝕠𝕦𝕡* ✅ :* *https://chat.whatsapp.com/E967TqfcTUTGUbZNSZyDL8*
 ┗━━━━━━━━━❊`
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3601,7 +3601,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')},
-                            hydratedFooterText: `ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ`,
+                            hydratedFooterText: `🆂คɳ𝐝𝖆 𝕭𝖔𝖙`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube🦋',
@@ -3650,7 +3650,7 @@ latensie = speed() - timestampe
                
 *┃Runtime ⏳:* ${runtime(process.uptime())}
                
-*┃*᳆⃟❁ཻ͜͡𝕆𝕦𝕣𝕖 𝕄𝕒𝕚𝕟 𝔾𝕣𝕠𝕦𝕡* ✅ :* https://chat.whatsapp.com/E967TqfcTUTGUbZNSZyDL8*
+*┃*᳆⃟❁ཻ͜͡𝕆𝕦𝕣𝕖 𝕄𝕒𝕚𝕟 𝔾𝕣𝕠𝕦𝕡* ✅ :* *https://chat.whatsapp.com/E967TqfcTUTGUbZNSZyDL8*
 ┗━━━━━━━━━❊`
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -3658,7 +3658,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')}, 
-                            hydratedFooterText: `ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ`,
+                            hydratedFooterText: `🆂คɳ𝐝𝖆 𝕭𝖔𝖙`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube🦋',
